@@ -1,0 +1,79 @@
+[
+  {
+    "id": 0,
+    "title": "Remera Frida",
+    "description": "remera de algodon bordada ",
+    "code": "coder0",
+    "status": true,
+    "price": 10000,
+    "stock": 20,
+    "category": "bordada",
+    "thumbnail": "https://i.postimg.cc/tJJM5t6S/remera2.png"
+  },
+  {
+    "id": 1,
+    "title": "Remera Pug",
+    "description": "Remera de algodon estampada",
+    "code": "coder1",
+    "status": true,
+    "price": 10200,
+    "stock": 15,
+    "category": "estampada",
+    "thumbnail": "https://i.postimg.cc/Jnc6mYNd/remera1.png"
+  },
+  {
+    "id": 2,
+    "title": "Remera Gato",
+    "description": "musculosa de algodon bordada",
+    "code": "coder2",
+    "status": true,
+    "price": 9000,
+    "stock": 10,
+    "category": "bordada",
+    "thumbnail": "https://i.postimg.cc/MTScVdCw/remera3.png"
+  },
+  {
+    "id": 3,
+    "title": "Remera Panda",
+    "description": "Remera de algodon bordada",
+    "code": "coder3",
+    "status": true,
+    "price": 12000,
+    "stock": 30,
+    "category": "bordada",
+    "thumbnail": "https://i.postimg.cc/g0Szk4G4/remera4.png"
+  },
+  {
+    "id": 4,
+    "title": "Remera Corazones",
+    "description": "Remera de algodon estampada",
+    "code": "coder4",
+    "status": true,
+    "price": 9500,
+    "stock": 5,
+    "category": "estampada",
+    "thumbnail": "https://i.postimg.cc/G3jMBfWc/remera5.png"
+  },
+  {
+    "id": 5,
+    "title": "Remera x",
+    "description": "remera de algodon bordada ",
+    "code": "coder5",
+    "status": true,
+    "price": 15200,
+    "stock": 15,
+    "category": "bordada",
+    "thumbnail": "https://i.postimg.cc/tJJM5t6S/remera2.png"
+  },
+  {
+    "id": 7,
+    "title": "Remera y",
+    "description": "Remera de algodon estampada",
+    "code": "coder7",
+    "price": 8000,
+    "status": false,
+    "stock": 15,
+    "category": "estampada",
+    "thumbnail": "https://i.postimg.cc/Jnc6mYNd/remera1.png"
+  }
+]
